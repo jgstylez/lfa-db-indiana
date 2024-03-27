@@ -1,0 +1,14 @@
+# VS Code
+.vscode/
+
+# Supabase
+.branches/
+.temp/
+
+# Environment variables
+.env
+
+# Dependency directories
+node_modules/
+package-lock.json
+
